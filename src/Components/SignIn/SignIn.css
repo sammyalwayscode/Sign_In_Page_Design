@@ -1,0 +1,129 @@
+.parentDiv{
+
+}
+
+.subParentDiv{
+  height: 100vh;
+  width: 100vw;
+  background-image: url(../Img/6.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signInCard{
+  height: 400px;
+  width: 671px;
+  background-color:#ededed;
+  border-radius: 10px;
+  display: flex;
+  font-family: poppins;
+}
+
+.imageDiv{
+  /* margin-top: 40px; */
+  margin-left: 20px;
+}
+
+.logo{
+  margin-left: 30px;
+  /* margin-top: -20px; */
+}
+
+.immmmmg{
+  margin-top: 40px;
+}
+
+.first{
+  margin-top: -10px;
+}
+
+.hello{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.join{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: -50px;
+}
+
+.afterJoin{
+  font-size: x-small;
+  margin-top: -25px;
+  color: gray;
+}
+
+.shortInputDiv{
+  display: flex;
+}
+
+.one{
+  height: 20px;
+  width: 90px;
+  border-radius: 20px;
+  color: li;
+  border: none;
+  outline: none;
+  border: 1px solid gray;
+  background: none;
+  text-align: left;
+  text-indent: 10px;
+  font-size: 10px;
+  
+}
+
+.two{
+  height: 20px;
+  width: 90px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  border: 1px solid gray;
+  background: none;
+  text-align: left;
+  text-indent: 10px;
+  font-size: 10px;
+  margin-left: 20px;
+  margin-bottom: 17px;
+}
+
+.three{
+  height: 20px;
+  width: 206px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  border: 1px solid gray;
+  background: none;
+  text-align: left;
+  text-indent: 10px;
+  font-size: 10px;
+  margin-bottom: 17px;
+}
+
+.arrowSignIn{
+  display: flex;
+  margin-top: -14px;
+}
+
+.snup{
+  color: green;
+  font-size: 16px;
+}
+
+.alre{
+  margin-top: -3px;
+  font-size: x-small;
+}
+
+.ahref{
+  text-decoration: none;
+  color: green;
+}
+
+.inputDiv{
+  display: block
+  
+}
